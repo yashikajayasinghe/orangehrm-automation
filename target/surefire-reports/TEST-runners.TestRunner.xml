@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="25" failures="0" name="runners.TestRunner" time="0.019" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jre1.8.0_171\bin"/>
+    <property name="java.vm.version" value="25.171-b11"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="E:\automation\OrangeHRM"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="E:\automation\OrangeHRM"/>
+    <property name="java.runtime.version" value="1.8.0_171-b11"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jre1.8.0_171\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\yash\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="E:\automation\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf5036277784116429782.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jre1.8.0_171\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_171/bin/server;C:/Program Files/Java/jre1.8.0_171/bin;C:/Program Files/Java/jre1.8.0_171/lib/amd64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;c:\Program Files (x86)\Intel\iCLS Client\;c:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Windows Live\Shared;C:\wamp\bin\php\php5.5.12;C:\ProgramData\ComposerSetup\bin;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\nodejs\;C:\Program Files\driver\chromedriver.exe;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk1.8.0_171\bin;C:\Users\yash\AppData\Local\Android\android-sdk\tools;C:\Program Files (x86)\WinAnt\bin;C:\Users\yash\AppData\Local\Microsoft\WindowsApps;C:\Users\yash\AppData\Roaming\npm;C:\apache-maven-3.5.3\bin;C:\Program Files\Java\jdk1.8.0_171\bin;;C:\Users\yash\Downloads\eclipse-java-oxygen-3-win32-x86_64\eclipse;;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\yash"/>
+    <property name="user.timezone" value="Pacific/Auckland"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="yash"/>
+    <property name="java.class.path" value="C:\Users\yash\Downloads\eclipse-java-oxygen-3-win32-x86_64\eclipse\plugins\org.eclipse.m2e.maven.runtime_1.8.3.20180227-2135\jars\plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jre1.8.0_171"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_171"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jre1.8.0_171\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jre1.8.0_171\lib\resources.jar;C:\Program Files\Java\jre1.8.0_171\lib\rt.jar;C:\Program Files\Java\jre1.8.0_171\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_171\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_171\lib\jce.jar;C:\Program Files\Java\jre1.8.0_171\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_171\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_171\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="E:\automation\OrangeHRM\EMBEDDED"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="| Admin |" name="Given the Admin user is in login Page" time="0.007"/>
+  <testcase classname="| Admin |" name="And he enters &quot;Admin&quot; credentials" time="0"/>
+  <testcase classname="| Admin |" name="And click the login button" time="0"/>
+  <testcase classname="| Admin |" name="Then the &quot;Admin&quot; is logged into the system" time="0"/>
+  <testcase classname="| Admin |" name="| Admin |" time="0.001"/>
+  <testcase classname="| Admin | Yashika2 |" name="Given the &quot;Admin&quot; is in Add Employee Page" time="0"/>
+  <testcase classname="| Admin | Yashika2 |" name="When he enters &quot;Yashika2&quot; information" time="0"/>
+  <testcase classname="| Admin | Yashika2 |" name="And submits form" time="0"/>
+  <testcase classname="| Admin | Yashika2 |" name="Then that Employee is shown in the list" time="0"/>
+  <testcase classname="| Admin | Yashika2 |" name="| Admin | Yashika2 |" time="0.003"/>
+  <testcase classname="| Admin | 1 |" name="Given the &quot;Admin&quot; is in Employee List page" time="0"/>
+  <testcase classname="| Admin | 1 |" name="When he enters &quot;1&quot;" time="0"/>
+  <testcase classname="| Admin | 1 |" name="And hit Search button" time="0"/>
+  <testcase classname="| Admin | 1 |" name="Then relevant employees are listed in the results" time="0"/>
+  <testcase classname="| Admin | 1 |" name="| Admin | 1 |" time="0.002"/>
+  <testcase classname="| Admin | 2 |" name="Given the &quot;Admin&quot; is in Employee List page" time="0.001"/>
+  <testcase classname="| Admin | 2 |" name="When he enters &quot;2&quot;" time="0"/>
+  <testcase classname="| Admin | 2 |" name="And hit Search button" time="0.001"/>
+  <testcase classname="| Admin | 2 |" name="Then relevant employees are listed in the results" time="0"/>
+  <testcase classname="| Admin | 2 |" name="| Admin | 2 |" time="0.003"/>
+  <testcase classname="| Admin | 0054 |" name="Given the &quot;Admin&quot; is in Employee List page" time="0"/>
+  <testcase classname="| Admin | 0054 |" name="When he selects an &quot;0054&quot;" time="0"/>
+  <testcase classname="| Admin | 0054 |" name="And hit delete button" time="0"/>
+  <testcase classname="| Admin | 0054 |" name="Then the choosen employee is deleted from the system" time="0"/>
+  <testcase classname="| Admin | 0054 |" name="| Admin | 0054 |" time="0.001"/>
+</testsuite>

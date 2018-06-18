@@ -1,0 +1,120 @@
+[{
+    "name" : {
+		"fname": "Yashika",
+		"mName" : "Chathumini",
+		"lName" : "Nandasiri"
+		},
+    "photo" : { "status":true,
+		"path":"E:/automation/OrangeHRM/testImages/user1.jpg"
+		},
+"loginStatus" : true,
+
+   "login": {		
+			"userName": "yasmin23",
+			"password": "Admin*111dgdfhgb",
+			"status": "Enabled"
+		}
+},
+{
+    "name" : {
+		"fname": "Yashika2",
+		"mName" : "Chathumini2",
+		"lName" : "Nandasiri2"
+		},
+    "photo" : { "status":false,
+		"path":""
+		},
+"loginStatus" : false,
+
+   "login": {		
+			"userName": "yasmin2",
+			"password": "Admin*111dgdfhgb",
+			"status": "Enabled"
+		}
+},
+{
+    "name" : {
+		"fname": "Yashika4",
+		"mName" : "Chathumini2",
+		"lName" : "Nandasiri2"
+		},
+    "photo" : { "status":false,
+		"path":""
+		},
+"loginStatus" : false,
+
+   "login": {		
+			"userName": "yasmin2",
+			"password": "Admin*111dgdfhgb",
+			"status": "Enabled"
+		}
+},
+{
+    "name" : {
+		"fname": "Yashika5",
+		"mName" : "Chathumini2",
+		"lName" : "Nandasiri2"
+		},
+    "photo" : { "status":false,
+		"path":""
+		},
+"loginStatus" : false,
+
+   "login": {		
+			"userName": "yasmin2",
+			"password": "Admin*111dgdfhgb",
+			"status": "Enabled"
+		}
+},
+{
+    "name" : {
+		"fname": "Yashika6",
+		"mName" : "Chathumini2",
+		"lName" : "Nandasiri2"
+		},
+    "photo" : { "status":false,
+		"path":""
+		},
+"loginStatus" : false,
+
+   "login": {		
+			"userName": "yasmin2",
+			"password": "Admin*111dgdfhgb",
+			"status": "Enabled"
+		}
+},
+{
+    "name" : {
+		"fname": "Yashika7",
+		"mName" : "Chathumini2",
+		"lName" : "Nandasiri2"
+		},
+    "photo" : { "status":false,
+		"path":""
+		},
+"loginStatus" : false,
+
+   "login": {		
+			"userName": "yasmin2",
+			"password": "Admin*111dgdfhgb",
+			"status": "Enabled"
+		}
+},
+{
+    "name" : {
+		"fname": "Yashika8",
+		"mName" : "Chathumini2",
+		"lName" : "Nandasiri2"
+		},
+    "photo" : { "status":false,
+		"path":""
+		},
+"loginStatus" : false,
+
+   "login": {		
+			"userName": "yasmin2",
+			"password": "Admin*111dgdfhgb",
+			"status": "Enabled"
+		}
+}
+]
